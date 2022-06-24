@@ -12,6 +12,10 @@ STEP 3 : run command `python -m venv myenv`
 
 STEP 4 : run command `myenv\scripts\activate` make sure you are using command promampt not windown poershell
 
-STEP 5 : run command `python manage.py runserver`
 
-STEP 6 : YOUR WEBSITE IS RUNNING ON `http://http://127.0.0.1:8000/`
+STEP 5 : run command `pip install requirements.txt`
+
+
+STEP 6 : run command `python manage.py runserver`
+
+STEP 7 : YOUR WEBSITE IS RUNNING ON `http://http://127.0.0.1:8000/`
